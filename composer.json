@@ -22,7 +22,7 @@
         "issues": "https://github.com/peacerevolution/php-cs-fixer-rules/issues"
     },
     "require": {
-        "php": ">=7.1 <=7.4.2"
+        "php": ">=7.1 <=7.5"
     },
     "conflict": {
         "friendsofphp/php-cs-fixer": "<2.13"
